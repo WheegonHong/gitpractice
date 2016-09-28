@@ -8,3 +8,7 @@ def add1():
 
 def add2():
     pass
+
+
+def add3():
+    pass
